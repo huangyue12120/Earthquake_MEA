@@ -10,6 +10,8 @@
 ![child3](https://github.com/huangyue12120/Earthquake_MEA/blob/master/Earthquake_MEA/github_readme/4.png "Gaussian projection position and Gaussian projection reflection")
 ![child4](https://github.com/huangyue12120/Earthquake_MEA/blob/master/Earthquake_MEA/github_readme/5.png "Gaussian projection position and Gaussian projection reflection")
 ![child5](https://github.com/huangyue12120/Earthquake_MEA/blob/master/Earthquake_MEA/github_readme/6.png "Gaussian projection position and Gaussian projection reflection")
+### If you have any questions,my email:
+    huangyue12120@gmail.com
 # 大地测量学工具
     本工具实现了以下功能 :
     1.大地坐标系与空间直角坐标系之间的转换
@@ -22,3 +24,6 @@
 ![child3](https://github.com/huangyue12120/Earthquake_MEA/blob/master/Earthquake_MEA/github_readme/4.png "高斯投影正算与反算")
 ![child4](https://github.com/huangyue12120/Earthquake_MEA/blob/master/Earthquake_MEA/github_readme/5.png "高斯投影正算与反算")
 ![child5](https://github.com/huangyue12120/Earthquake_MEA/blob/master/Earthquake_MEA/github_readme/6.png "高斯投影正算与反算")
+### 有问题可发邮件至：
+    734330509@qq.com
+    huangyue12120@gmail.com
